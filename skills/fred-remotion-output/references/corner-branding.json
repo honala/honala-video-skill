@@ -1,0 +1,5 @@
+{
+  "id": "honala-corner",
+  "enabled": false,
+  "scope": "All final video frames, including imported scenes and transitions."
+}
